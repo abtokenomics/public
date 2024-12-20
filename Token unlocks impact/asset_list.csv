@@ -1,0 +1,98 @@
+symbol,id,genesisDate,projectedEndDate,serialID,sector,tags,otherInfo
+SOL,b3d5d66c-26a2-404c-9325-91dc714a722b,2020-04-07T00:00:00Z,2023-01-07T00:00:00Z,6079,Smart Contract Platform,"['Proof-of-Stake', 'SEC Alleged Securities', 'Stakeable']",Tokens allocated to inflationary categories (Validator Rewards) are not accounted for in the unlock data below. 
+AVAX,2db6b38a-681a-4514-9d67-691e319597ee,2020-09-21T00:00:00Z,2030-07-20T00:00:00Z,1265,Layer-0,"['Proof-of-Stake', 'Stakeable']",
+NEAR,5416e814-8023-4f66-aadb-a063afca2414,2020-10-13T00:00:00Z,2025-10-12T00:00:00Z,5875,Smart Contract Platform,"['Proof-of-Stake', 'SEC Alleged Securities', 'Stakeable']",Tokens allocated to inflationary categories (Validators and NEAR Treasury) are not accounted for in the unlock data below. 
+UNI,1d51479d-68f6-4886-8644-2a55ea9007bf,2020-09-18T00:00:00Z,2024-09-18T00:00:00Z,5915,Exchange,"['Automated Market Maker (AMM)', 'DAO', 'Decentralized Exchange', 'DeFi', 'Governance Token']",The tokens allocated to the Community Treasury due to inflation are not accounted for in the unlock data below. 
+FET,fa82f7cf-f043-4dd1-9e7b-7e76942d7d60,2019-02-28T00:00:00Z,2024-02-27T00:00:00Z,25,Machine Learning,"['A.I.', 'Application Specific Chain', 'Cosmos SDK', 'DePIN', 'Governance Token', 'NFTs', 'Proof-of-Stake', 'Stakeable']",
+APT,d056cfae-d8fc-40c6-b84f-395d640203df,2022-10-12T00:00:00Z,2032-10-12T00:00:00Z,20956,Smart Contract Platform,"['Proof-of-Stake', 'Stakeable']",Tokens allocated to inflationary categories (Validators and Stakers) are not accounted for in the unlock data below. 
+FIL,75526795-8e92-4513-907a-81cc1c77a278,2020-10-15T00:00:00Z,2188-10-14T00:00:00Z,2962,File Storage,"['DePIN', 'SEC Alleged Securities']","Tokens allocated to inflationary/dynamic categories (Baseline Minting - 770M FIL) are not accounted for in the unlock data below. Tokens reserved for Mining Reserve are assumed to be locked, but are not accounted for in the vesting chart since the release schedule is unknown. "
+ARB,a288b358-f3d3-4ecd-aa30-c45c84f666ee,2023-03-16T00:00:00Z,2027-04-16T00:00:00Z,6257,Scaling Solutions,"['Ethereum Layer-2', 'EVM', 'Optimistic (Fraud Proofs)']",The tokens allocated to the DAO Treasury due to inflation are not accounted for in the unlock data below. 
+INJ,0e38e60e-02e0-43f7-ad90-2096d23d48b8,2020-10-20T00:00:00Z,2024-01-20T00:00:00Z,317,Smart Contract Platform,"['Application Specific Chain', 'DAO', 'Decentralized Exchange', 'DeFi', 'Derivatives', 'Governance Token', 'Proof-of-Stake', 'Stakeable']",
+TIA,2f7e8670-2a5b-4949-b239-1fc73dadfe8f,2023-10-31T00:00:00Z,2027-10-30T00:00:00Z,20228,Layer-0,"['Cosmos SDK', 'Proof-of-Stake']",
+JASMY,54732e87-7c3a-458e-ad32-85f07594c2a5,2021-10-01T00:00:00Z,2023-10-01T00:00:00Z,6264,Wireless and Sensor Networks,,
+W,eb7bef56-7009-4201-a0cd-ae4d329e93d5,2024-04-03T00:00:00Z,2028-04-03T00:00:00Z,20409,Generalized Bridge,,
+WLD,d22cb290-a80a-4ee4-be8e-ea81e6e1b706,2023-07-24T00:00:00Z,2038-07-24T00:00:00Z,335482,"Identity, Reputation, and Credentialing","['A.I.', 'Governance Token']",
+AKT,70ff9217-865b-4f97-8967-8e2818048913,2020-09-25T00:00:00Z,2023-03-25T00:00:00Z,780,General Compute,"['A.I.', 'Application Specific Chain', 'Cosmos SDK', 'DAO', 'DePIN', 'Governance Token', 'Proof-of-Stake', 'Stakeable']",
+SNX,54d246b7-f554-4386-97da-907a03c1a812,2018-03-13T00:00:00Z,2021-03-13T00:00:00Z,343,Derivatives,"['DAO', 'Decentralized Exchange', 'DeFi', 'Derivatives', 'Governance Token']",Tokens allocated to inflationary categories (Staking Rewards) are not accounted for in the unlock data below. 
+NEXO,4578ae99-50bd-4a47-993e-d5967d61b8b3,2018-05-01T00:00:00Z,2022-05-01T00:00:00Z,2023,Exchange,['SEC Alleged Securities'],
+APE,4fbbf057-e0cf-47d5-8543-da4ed6045a85,2022-03-17T00:00:00Z,2026-03-17T00:00:00Z,19158,Collectibles and Digital Goods,"['DAO', 'Governance Token', 'NFTs']",
+ENS,bbedbf06-a629-4706-96d5-0345a68b555b,2021-11-01T00:00:00Z,2025-10-31T00:00:00Z,6277,Domain Name System (DNS),"['DAO', 'Governance Token', 'NFTs']",
+PRIME,85ec7d3f-bc7a-4c7a-83c6-1685f18f42fb,2023-03-01T00:00:00Z,2026-12-28T00:00:00Z,198751,Gaming,,"PRIME launched in July 2022, as a non-transferrable token. But March 1, 2023 is considered token genesis below, as the tokens did not become unlocked/tradeable until 
+the community vote passed on March 1, 2023."
+BLUR,213894a1-120a-4775-a992-20ef0890924c,2023-02-14T00:00:00Z,2027-02-13T00:00:00Z,137942,Exchange,"['DAO', 'Governance Token', 'NFT Exchange', 'NFTs']",
+IOTX,50b7f853-1a81-49d1-accd-e0b8414cd21f,2018-05-22T00:00:00Z,2022-07-22T00:00:00Z,3053,Smart Contract Platform,"['DePIN', 'EVM', 'Governance Token']","Tokens allocated to dynamic categories (Roll-DPoS mining, 12% of the total allocation) are not accounted for in the unlock data below. "
+CRV,0206fbbe-d7eb-422e-b94e-5033985e05d6,2020-08-13T00:00:00Z,2140-08-12T00:00:00Z,5907,Exchange,"['Automated Market Maker (AMM)', 'Curve Finance Ecosystem', 'DAO', 'Decentralized Exchange', 'DeFi', 'Governance Token', 'Stableswap']",
+RAY,fd41189f-48ce-417b-97a4-3da221dfa5d8,2021-02-21T00:00:00Z,2024-02-20T00:00:00Z,1096,Exchange,"['Automated Market Maker (AMM)', 'Decentralized Exchange', 'DeFi']","Tokens allocated to ""Mining Reserve"" category are not accounted for in the vesting schedule data, as the emissions follow a dynamic schedule and are hard to accurately project.  "
+GLM,0bb97d30-b5bb-45d6-b105-e49436cace0e,2016-12-02T00:00:00Z,2017-06-02T00:00:00Z,97,General Compute,"['A.I.', 'DePIN']",
+GMT,4ad38375-f5b2-42e4-82e0-6a0f510a547b,2022-03-04T00:00:00Z,2036-05-01T00:00:00Z,19031,Sports,"['Move-to-Earn', 'NFTs', 'Play-to-Earn']",
+SUPER,1ae14641-7365-4be1-9bb9-c86ab07715b3,2021-02-21T00:00:00Z,2024-02-20T00:00:00Z,6021,Exchange,"['NFT Exchange', 'NFTs']",
+BICO,ba6425a4-5c51-409a-807e-696ff0460d92,2021-11-23T00:00:00Z,2025-10-31T00:00:00Z,11039,Developer Tooling,,
+ANKR,998058d5-f705-448a-961a-50a6b922e0f5,2019-02-21T00:00:00Z,2022-07-21T00:00:00Z,6092,Hosting,"['DeFi', 'DePIN', 'Stakeable']",
+GAL,8e36b76a-0cf7-4caa-82d6-f43363cc90b1,2022-05-05T00:00:00Z,2028-09-05T00:00:00Z,19582,"Identity, Reputation, and Credentialing","['DAO', 'Governance Token', 'NFTs']",
+GMX,d600e6c8-1fb0-4d42-9755-1069f44583c6,2021-07-22T00:00:00Z,2023-07-22T00:00:00Z,12315,Exchange,"['DAO', 'Decentralized Exchange', 'DeFi', 'Derivatives', 'Governance Token']",
+COMP,157f4fe3-6046-4b6d-bceb-a2af8ca021b5,2020-04-17T00:00:00Z,2025-05-16T00:00:00Z,350,Lending,"['DAO', 'Decentralized Lender', 'DeFi', 'Governance Token']",
+NOS,3def29d4-ecec-4efd-994e-121206be05c8,2022-01-17T00:00:00Z,2026-01-17T00:00:00Z,17280,General Compute,"['A.I.', 'DePIN']",
+SKL,68e7b107-6a42-40ec-9e5d-2bd9a7d0eb3a,2020-10-01T00:00:00Z,2027-10-01T00:00:00Z,93,Scaling Solutions,['Ethereum Layer-2'],
+YGG,e6ca0755-75f7-41c1-b354-4a0de9867c0b,2021-01-01T00:00:00Z,2027-01-31T00:00:00Z,6261,Gaming,"['DAO', 'NFTs', 'Play-to-Earn']",
+FXS,e630ea56-f739-4d31-93fa-0b4d8d157620,2020-12-19T00:00:00Z,2052-12-19T00:00:00Z,803,Cryptocurrency,"['Curve Finance Ecosystem', 'DeFi']",
+ONE,3d6a1f69-2e25-4c65-8e85-b8608455f863,2019-06-01T00:00:00Z,2025-05-31T00:00:00Z,555,Smart Contract Platform,"['EVM', 'Proof-of-Stake', 'Stakeable']",
+YFI,75af0d92-7ec7-4279-bd5b-05eafa1090bf,2020-07-17T00:00:00Z,2021-02-02T00:00:00Z,5926,Aggregator,"['Curve Finance Ecosystem', 'DAO', 'DeFi', 'Governance Token', 'Yield Aggregator']",
+BAL,c47ecc75-5d26-4142-834b-a8274c640e7e,2020-06-20T00:00:00Z,2119-04-07T00:00:00Z,5896,Exchange,"['Automated Market Maker (AMM)', 'DAO', 'Decentralized Exchange', 'DeFi', 'Governance Token']",
+OMNI,c6c45693-ce0d-4944-a945-87e1186f8bb2,2024-04-17T00:00:00Z,2027-04-17T00:00:00Z,511017,Smart Contract Platform,,
+CTSI,c5a18bc3-4f23-40db-811a-843eefb2ebef,2020-04-21T00:00:00Z,2024-04-23T00:00:00Z,275,Developer Tooling,"['Governance Token', 'Proof-of-Stake']",Tokens allocated to dynamically releasing categories (25% allocation to Mining Reserves) are not accounted for in the unlock data below. 
+XVS,df6d9f65-389a-4a15-8d02-6bf363b37211,2020-09-27T00:00:00Z,2024-09-26T00:00:00Z,1033,Lending,"['DAO', 'Decentralized Lender', 'DeFi', 'Governance Token']",
+JOE,722bb740-9b10-4f9b-a56b-ccab6c2297ff,2021-07-03T00:00:00Z,2024-02-02T00:00:00Z,6262,Exchange,"['Automated Market Maker (AMM)', 'Decentralized Exchange', 'DeFi', 'Governance Token']",
+RBN,0d0d9689-bf75-41ee-9555-aa2f2ca0186b,2021-05-24T00:00:00Z,2025-05-23T00:00:00Z,6290,Derivatives,"['DeFi', 'Derivatives', 'Governance Token']",
+CQT,49f6ac32-19ed-442d-b568-852a9ae372f1,2021-06-22T00:00:00Z,2025-12-22T00:00:00Z,6228,Indexing,"['A.I.', 'DAO', 'DeFi', 'Governance Token']",
+MPLX,30e090d8-2d4c-4a23-b9a5-c8ea6ba12d59,2022-09-19T00:00:00Z,2025-09-18T00:00:00Z,65980,Developer Tooling,['NFTs'],
+STG,8502ccda-bdda-4f1b-b9fc-2c28b41e399e,2022-03-17T00:00:00Z,2025-03-16T00:00:00Z,19449,Generalized Bridge,"['DAO', 'DeFi', 'Governance Token']",
+LQTY,d2bc5118-39e8-4b2c-bdea-a7e0c43536f3,2021-04-05T00:00:00Z,2053-04-04T00:00:00Z,6232,Lending,"['CDP', 'DeFi']",
+GEL,f910af24-1a83-4bb2-bd5e-aeeec31e8439,2021-09-13T00:00:00Z,2025-09-12T00:00:00Z,8583,Developer Tooling,['DeFi'],
+RARE,c6d91762-f735-4026-9244-31e2aa947a79,2021-08-16T00:00:00Z,2024-08-16T00:00:00Z,6248,Collectibles and Digital Goods,"['DAO', 'Governance Token', 'NFT Exchange', 'NFTs']",
+EUL,afc8f771-6182-49de-a4c7-2bacf22e9b1d,2021-12-30T00:00:00Z,2026-04-06T00:00:00Z,20666,Lending,"['Decentralized Lender', 'DeFi']",
+LIKE,19e9aefe-520d-4f30-b24f-de479e6c14d7,2021-08-01T00:00:00Z,2027-07-01T00:00:00Z,8694,Social Media,,
+NAVX,521304e8-e069-410a-a594-be76be74af96,2024-02-08T00:00:00Z,2027-02-04T00:00:00Z,406613,,,
+LMR,cb1eec26-bd87-4585-a3f1-568ad28d3ef2,2022-03-28T00:00:00Z,2032-09-27T00:00:00Z,19644,,,
+SWISE,a6691cea-17c7-448d-ae63-b2487357f95e,2021-04-01T00:00:00Z,2025-03-01T00:00:00Z,12283,Liquid Staking,"['DAO', 'Governance Token']",
+UNIBOT,2c563fd7-b4b5-4824-b7e7-b04d014ec749,2023-05-01T00:00:00Z,2023-05-01T00:00:00Z,293354,Aggregator,,
+LBR,308eb7dc-eec1-4d4a-aa3b-0564c059451d,2023-04-24T00:00:00Z,2025-10-23T00:00:00Z,267500,,['LST-Fi'],
+SUDO,3fa02268-0eb4-4199-88c4-41fbb20527f5,2023-01-30T00:00:00Z,2027-01-29T00:00:00Z,51010,Exchange,"['NFT Exchange', 'NFTs']",
+HOP,6a757953-a95b-425f-8e2e-cff8a0233914,2022-06-08T00:00:00Z,2025-06-07T00:00:00Z,20302,Generalized Bridge,"['DAO', 'Governance Token']",
+SLND,7bb2fbb4-8e78-41f1-8221-a2d124bbe860,2021-11-01T00:00:00Z,2024-10-01T00:00:00Z,11766,Lending,"['Decentralized Lender', 'DeFi']",
+TNSR,16ce7b1c-2d15-4f90-ad58-3660067b1e6c,2024-04-08T00:00:00Z,2028-04-07T00:00:00Z,487657,Exchange,"['NFT Exchange', 'NFTs']",
+PYTH,d94280bd-6787-4c43-9cc3-61e3b693ff7b,2023-11-20T00:00:00Z,2028-05-20T00:00:00Z,6259,Oracles,['SVM'],
+ILV,b189d76c-98a1-4b07-868c-eb2460b9f3dc,2021-03-29T00:00:00Z,2028-07-28T00:00:00Z,6231,Gaming,"['DAO', 'Gaming Studio', 'Governance Token', 'NFTs', 'Play-to-Earn']",
+JTO,80d32f9a-3406-40f2-9798-942bbc6b6adc,2023-12-07T00:00:00Z,2027-12-07T00:00:00Z,426126,Governance Frameworks,"['DeFi', 'Governance Token', 'Liquid Staking']",
+VRTX,27ad7b98-f922-4045-8d6a-9bb9195b4f61,2023-11-21T00:00:00Z,2034-01-08T00:00:00Z,426265,Exchange,"['Decentralized Exchange', 'DeFi']",
+ALT,eb286989-8440-453b-96bd-44cd8a5e1db3,2024-01-25T00:00:00Z,2028-01-25T00:00:00Z,459972,Scaling Solutions,['Restaking'],
+1INCH,55a7b511-5d79-4a8f-ab38-487f8225b415,2020-12-25T00:00:00Z,2027-08-20T00:00:00Z,5931,Aggregator,"['DAO', 'Decentralized Exchange', 'DeFi', 'Governance Token']",
+PRCL,39f97a1d-e784-497c-926f-d065511bbd69,2024-04-16T00:00:00Z,2027-04-15T00:00:00Z,549169,Real World Assets,"['Decentralized Exchange', 'DeFi', 'Index Token']",
+DYM,ecb4d277-b7d1-4584-b1f1-0344bd1fce75,2024-02-06T00:00:00Z,2027-02-05T00:00:00Z,450422,Scaling Solutions,['Cosmos SDK'],
+CELO,c7685660-2363-4570-b594-2e0ae6c9f8e4,2020-04-22T00:00:00Z,2050-03-31T00:00:00Z,5888,Smart Contract Platform,"['Decentralized Issuer', 'DeFi', 'Proof-of-Stake', 'Stakeable', 'U.S. Dollar Stablecoin']",Tokens allocated to inflationary categories (Staking & Validator Rewards) are not accounted for in the unlock data below. 
+IMX,b22d9d2b-8d46-4bd8-a0e8-a19423a16a83,2021-11-05T00:00:00Z,2025-11-05T00:00:00Z,6275,Gaming,"['DAO', 'Ethereum Layer-2', 'Gaming Platform', 'Governance Token', 'NFTs', 'Play-to-Earn', 'Zero Knowledge (Validity Proofs)']",
+RLB,4f80991c-f3f7-4fa6-87ab-d64df868cf28,2021-11-10T00:00:00Z,2021-12-09T00:00:00Z,19319,Prediction,['Gambling'],
+DYDX,4bb97708-283d-4d76-ac6b-ec54babe1d0b,2021-08-03T00:00:00Z,2026-08-03T00:00:00Z,5863,Exchange,"['Application Specific Chain', 'Decentralized Exchange', 'DeFi', 'Derivatives', 'Ethereum Layer-2', 'Zero Knowledge (Validity Proofs)']",
+BTRST,6c60d416-4a21-4045-ab0c-6c993c98862b,2021-09-01T00:00:00Z,2025-08-01T00:00:00Z,6253,Contribution and Compensation,,
+RON,4c36ad58-bf5f-4671-af04-b07e04871aed,2022-01-27T00:00:00Z,2025-09-26T00:00:00Z,304460,Gaming,"['Game', 'NFTs']",
+MASK,6a3b4ab3-bfe1-4d8f-bf2f-593e1290cc8f,2021-02-24T00:00:00Z,2024-02-23T00:00:00Z,6210,"Identity, Reputation, and Credentialing","['Governance Token', 'Privacy']",
+SEI,0632a8d9-9516-4580-9623-9e5d34a06914,2023-08-15T00:00:00Z,2032-08-14T00:00:00Z,351036,Smart Contract Platform,"['EVM', 'Proof-of-Stake', 'Stakeable']",
+PORTAL,1d3bfcac-acb6-46ed-99b2-94122b8de833,2024-02-29T00:00:00Z,2030-04-30T00:00:00Z,485734,Gaming,"['Gaming Platform', 'Play-to-Earn']",
+SAND,9e79e939-dc11-445e-91b9-1e0ec35180fd,2020-08-13T00:00:00Z,2025-08-12T00:00:00Z,6156,Metaverse,"['Gaming Platform', 'NFTs', 'SEC Alleged Securities']",
+ARKM,7f156edf-e30f-46d7-9036-4de268296f15,2023-07-17T00:00:00Z,2030-07-16T00:00:00Z,327057,Analytics,['Portfolio Analytics'],
+MANTA,c602aff5-a236-4e1c-9ce9-884a58d650be,2024-01-18T00:00:00Z,2030-01-16T00:00:00Z,452209,Scaling Solutions,"['Ethereum Layer-2', 'Privacy', 'Zero Knowledge (Validity Proofs)']",Tokens allocated to inflationary categories (Estimated Validator / Emission Rewards) are not accounted for in the unlock data below. 
+AXL,9c8399c6-70c9-4007-b653-220d61025361,2022-09-27T00:00:00Z,2026-12-26T00:00:00Z,60930,Generalized Bridge,"['Application Specific Chain', 'Cosmos SDK', 'DAO', 'Governance Token', 'Proof-of-Stake', 'Stakeable']",
+ONDO,f66f5717-52da-4756-8eac-7183f41771f6,2024-01-18T00:00:00Z,2029-01-18T00:00:00Z,36142,Real World Assets,['DeFi'],
+BNB,7dc551ba-cfed-4437-a027-386044415e3e,2017-07-28T00:00:00Z,2021-07-28T00:00:00Z,347,Smart Contract Platform,"['CeFi', 'Centralized Exchange', 'Cosmos SDK', 'EVM', 'SEC Alleged Securities']",
+LDO,753f204a-8cdd-4169-bdd3-aeced7443e65,2020-12-17T00:00:00Z,2022-12-16T00:00:00Z,760,Liquid Staking,"['DAO', 'DeFi', 'Governance Token', 'Liquid Staking']",
+MAV,b2ab1930-6b9b-4966-8673-cfcc37e651a9,2023-07-09T00:00:00Z,2032-04-09T00:00:00Z,320070,Exchange,"['Automated Market Maker (AMM)', 'Decentralized Exchange', 'DeFi']",
+AXS,52b9da0d-1cb2-4de2-bcf2-1b43cbb584c6,2020-11-04T00:00:00Z,2026-01-07T00:00:00Z,525,Gaming,"['DAO', 'Game', 'NFTs', 'Play-to-Earn', 'SEC Alleged Securities']",
+BONK,e7f6fb5c-b7e6-45b4-b9ed-3f3c761f280e,2022-12-25T00:00:00Z,2025-12-31T00:00:00Z,154261,Cryptocurrency,"['Dog-Themed', 'Meme']",
+ATOM,3385649f-7e22-4260-9995-309f05650e47,2017-04-06T00:00:00Z,2019-03-06T00:00:00Z,386,Layer-0,"['Cosmos SDK', 'Governance Token', 'Proof-of-Stake', 'SEC Alleged Securities', 'Stakeable']",Tokens allocated to inflationary categories (Block Rewards) are not accounted for in the unlock data below. 
+PENDLE,489a222f-43f3-4510-b03d-c8bf1e07bcf6,2021-04-27T00:00:00Z,2030-08-07T00:00:00Z,5934,Yield Services,"['DeFi', 'Derivatives', 'LST-Fi', 'Restaking']","Weekly unlocks related to Liquidity Incentives are infinite, but are currently only projected to October 2030 in the data below. "
+GRT,fcb726c7-364f-4252-8ee8-70b0bbbd8791,2020-12-17T00:00:00Z,2030-12-16T00:00:00Z,6175,Indexing,"['API', 'DePIN']",
+ZETA,efc419fd-a895-4181-af0f-33c48d7f9afd,2023-02-01T00:00:00Z,2027-02-01T00:00:00Z,38629,Smart Contract Platform,,Tokens allocated to inflationary categories (Validator Incentives) are not accounted for in the unlock data below. 
+CORE,06a4fc75-c883-4edc-9d2f-965a84084623,2023-04-08T00:00:00Z,2103-04-08T00:00:00Z,193220,Smart Contract Platform,"['Bitcoin Layer 2', 'DAO', 'DeFi', 'EVM']",Tokens allocated to categories (Node Mining and Relayer Rewards) that dynamically unlock with transaction fees and inflation are not accounted for in the unlock data below. 
+RSTK,99fa7b29-03f2-4e91-bb4d-f3942a21ac73,2023-12-20T00:00:00Z,2026-06-19T00:00:00Z,441687,,['Restaking'],
+PIXEL,c56695c3-af0c-4c31-baec-630e0aae4cfe,2024-02-19T00:00:00Z,2029-02-18T00:00:00Z,475913,Gaming,"['Game', 'NFTs', 'Play-to-Earn']",
+MC,60770a21-e266-49d4-8a68-92e6b98a24a0,2021-11-06T00:00:00Z,2026-05-05T00:00:00Z,10685,Gaming,"['DAO', 'Gaming Platform', 'Governance Token', 'Play-to-Earn']",
+AAVE,0472643b-1c7a-47a2-a45e-ec1e3e1269cd,2017-12-10T00:00:00Z,2020-09-24T00:00:00Z,5901,Lending,"['DAO', 'Decentralized Lender', 'DeFi', 'Governance Token']",
